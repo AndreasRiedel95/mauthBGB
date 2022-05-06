@@ -5,11 +5,8 @@
 </script>
 
 <Router>
-  <Route path="/" component={Home}  />
-  <Route
-    path="/impressum"
-    component={Impressum}
-  />
+  <Route path="/" component={Home} />
+  <Route path="/impressum" component={Impressum} />
   <NotFound />
 </Router>
 
@@ -30,8 +27,6 @@
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background: rgba(33, 33, 32, 1);
-    // user-select: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     line-height: 1.9;
