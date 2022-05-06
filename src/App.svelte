@@ -18,18 +18,13 @@
 
   body {
     min-height: 100vh;
-    min-height: -webkit-fill-available;
+    background-color: #000;
     padding: 0;
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
-    height: 100%;
     margin: 0;
-    overflow: hidden;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-    line-height: 1.9;
+    line-height: 1.8;
     letter-spacing: 1.2;
     font-weight: 300;
     @media screen and (max-width: 600px) {

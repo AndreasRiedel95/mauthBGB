@@ -14,15 +14,12 @@
     <h2 class="headline2 mb-20">Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
     <p class="mb-30">
       Andreas Riedel<br />
-      Conrad-R&ouml;ntgen Str. 23<br />
-      74321 Bietigheim-Bissingen
+      Mauthstr. 11<br />
+      85049 Ingolstadt
     </p>
 
     <h2 class="headline2 mb-20">Kontakt</h2>
-    <p class="mb-30">
-      Telefon: 017632579715<br />
-      E-Mail: andreas.riedel95@gmail.com
-    </p>
+    <p class="mb-30">E-Mail: a-l-r@arcor.de</p>
 
     <h3 class="headline3 mb-20">Haftung f&uuml;r Inhalte</h3>
     <p class="mb-30">
@@ -89,6 +86,7 @@
 <style>
   .main {
     display: flex;
+    background-color: #000;
     flex-direction: column;
     width: 100%;
     height: 100%;
